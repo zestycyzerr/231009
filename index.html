@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>For You</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,500&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Caveat:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ambient floating hearts, purely decorative, behind everything -->
+  <div id="heartsBg" class="hearts-bg" aria-hidden="true"></div>
+
+  <!-- background music, optional: drop a file at music/song.mp3 -->
+  <audio id="bgMusic" loop preload="none">
+    <source src="music/song.mp3" type="audio/mpeg">
+  </audio>
+  <button id="musicToggle" class="music-toggle" aria-label="Toggle music" data-playing="false">
+    <span class="music-icon"></span>
+  </button>
+
+  <main id="stage">
+
+    
+    <section class="screen active" id="screen-question" data-screen="question">
+      <div class="scene-inner">
+        <p class="eyebrow-script" id="questionEyebrow">Hey yearner</p>
+        <h1 class="display-heading" id="questionHeading">wanna see something cool?</h1>
+        <div class="btn-field" id="btnField">
+          <button class="btn btn-primary" id="yesBtn" type="button">Yes</button>
+          <button class="btn btn-ghost" id="noBtn" type="button">No</button>
+        </div>
+        <p class="think-again" id="thinkAgain" aria-live="polite"></p>
+      </div>
+    </section>
+
+    
+    <section class="screen" id="screen-envelope" data-screen="envelope">
+      <div class="scene-inner">
+        <p class="eyebrow-script">. goodboy. YES press karna tha not no</p>
+        <h2 class="display-heading small">Here i have something for you</h2>
+        <button class="envelope" id="envelope" type="button" aria-label="Open the envelope">
+          <span class="envelope-shadow"></span>
+          <span class="letter-peek"></span>
+          <span class="envelope-body"></span>
+          <span class="envelope-flap"></span>
+          <span class="wax-seal"></span>
+        </button>
+        <p class="hint" id="envelopeHint">(touch it)</p>
+      </div>
+    </section>
+
+    
+    <section class="screen" id="screen-letter" data-screen="letter">
+      <div class="scene-inner letter-scene">
+        <article class="letter-paper">
+          <div class="letter-content" id="letterContent"></div>
+          <p class="letter-signature" id="letterSignature"></p>
+        </article>
+        <button class="btn btn-primary" id="continueFromLetterBtn" type="button">Keep going</button>
+      </div>
+    </section>
+
+   
+    <section class="screen" id="screen-reasons" data-screen="reasons">
+      <div class="scene-inner">
+        <p class="eyebrow-script">a short, incomplete list</p>
+        <h2 class="display-heading small" id="reasonsHeading">Reasons to hate, among many to not</h2>
+        <div class="reasons-grid" id="reasonsGrid"></div>
+        <button class="btn btn-primary" id="continueFromReasonsBtn" type="button">One more thing</button>
+      </div>
+    </section>
+
+    <!-- SCENE 5 — the cake -->
+    <section class="screen" id="screen-cake" data-screen="cake">
+      <div class="scene-inner">
+        <p class="eyebrow-script">before you go</p>
+        <h2 class="display-heading small">Make a wish</h2>
+        <div class="cake" id="cake">
+          <div class="candles" id="candles"></div>
+          <div class="cake-top"></div>
+          <div class="cake-tier tier-2"></div>
+          <div class="cake-tier tier-1"></div>
+          <div class="cake-plate"></div>
+        </div>
+        <p class="hint" id="cakeHint">blow out each candle (tap it), one by one</p>
+        <button class="btn btn-primary is-hidden" id="continueFromCakeBtn" type="button">See you never lmao</button>
+      </div>
+    </section>
+
+    <!-- SCENE 6 — finale -->
+    <section class="screen" id="screen-final" data-screen="final">
+      <canvas id="confettiCanvas" aria-hidden="true"></canvas>
+      <div class="scene-inner">
+        <p class="eyebrow-script">happy birthday</p>
+        <h1 class="display-heading" id="finalHeading">To many more.</h1>
+        <p class="final-message" id="finalMessage"></p>
+        <p class="together-counter is-hidden" id="togetherCounter"></p>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
