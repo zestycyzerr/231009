@@ -25,22 +25,25 @@ const CONFIG = {
   letter: [
     `Meenu(vfunnynicknamebroisw),`,
     `I couldnt have gotten a gift anyway so i thought might as well do something different right. Im a little gay bitch so i dont know what to write but just know im trying my best lmaoo.`,
-    `Okay so first of all, you absolutely ditched me for most of that Islamabad trip and I have never fully forgiven you for it, but somehow I still ended up texting you every single day since, so clearly my judgment is broken. You're annoying as fuck btw, and im sick of your age jokes , and I still think about you more than any semi-sane person should think about someone they've met exactly once in real life.
+    `Okay so first of all, you absolutely ditched me for most of that Islamabad trip and I have never fully forgiven you for it, but somehow I still ended up texting you every single day since, so clearly my judgment is broken. You're annoying as fuck btw, and im sick of your age jokes. I  think about you more than any semi-sane person should think about someone they've met exactly once in real life, and then im like wow what a loser you are haha.
 
-But also like I'm kind of glad Hania decided to be a menace and make us meet, because whatever this is, brainrot and all, has turned into a very enjoyable part of my days. mb this is me saying it a little sideways instead of straight up, so samajh jana bas.
+But also like I'm kind of glad Hania decided to be a menace and make us meet, because whatever this is, brainrot and all, has turned into a very enjoyable part of my days.
+mb this is me saying it a little sideways instead of straight up, so samajh jana bas. `ap bas andaza lagao how much to me to me that if we were on a boat that was sinking, and somehow there was only one lifejacket, im obviously gonna take it; but id miss you dearly though 🥹🥹`
 sab choro weese lmk how u liked my unique new birthday wishing tactic, THIS IS NO LESS THAN A GIFT OKAY? MERE ALL NIGHTERS LAGE HAIN U BETTER APPRECIATE THE GRINDING I DID FOR U lol.`,
     `Happy sixsevennnn birthday. I hope this year is as shit to you as were to me and
-     to everyone around you (jox you werent). I'm grateful you got posted to samungli hhahaha. I hope you have a good day, and that you get to spend it with people who make you feel just as good `
+     to everyone around you (jox you werent). I'm grateful you got posted to samungli hhahaha. I hope you have a good day, and that you get to spend it with people who make you feel just as good.`
+     
+     `dekho kitna kuch likh liya ap creativity check karo bas`
   ],
   letterSignature: "— cyzer",
 
   // Short reasons — keep each one to a single sentence.
   reasons: [
-    " lock in youre becoming legal next year, so dont be dumb and get your shit together.",
-    "Cindy malt was dogshit btw, i drank it all in and i still feel like i wasted my life, only because tumne khareeda tha",
+    "STOP SPILLING THE SHIT I TELL YOU TO RANDOS okay warna ill stop telling u stuff 🥹",
+    "Cindy malt was dogshit btw, i drank it all in and i still feel like i wasted my life, only because apne khareeda tha",
     "give me rhodedendron wali gmail back thanks AND DONT GIVE YOUR PLAYLISTS NAMES LIKE YEARNING 😭😭",
     "You've perfected the art of leaving me on read for six hours and then sending fifteen messages in a row which is weird.",
-    "Dont every try kicking my baby btw warna i will personally come to your house and break your leg.",
+    "I still have not recieved a sibglke gift u bragged to me about ke ill give to ur mom blahblah so you might wanna work on that :p",
     "heres some tareef for you, but dont get used to it. You're a genuinely good time, even over text, which should not be possible.",
   ],
 
