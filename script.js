@@ -22,7 +22,7 @@ const CONFIG = {
   ],
 
   // The letter. Each string in the array becomes its own paragraph.
-  lletter: [
+  letter: [
     `Meenu(with da teddybear emoji),`,
     `I couldnt have gotten a gift anyway so i thought might as well do something different right. Im a little gay bitch so i dont know what to write but just know im trying my best lmaoo.`,
     `Okay so first of all, you absolutely ditched me for most of that Islamabad trip and I have never fully forgiven you for it, but somehow I still ended up texting you every single day since, so clearly my judgment is broken. You're annoying as fuck btw, and im sick of your age jokes. I think about you more than any semi-sane person should think about someone they've met exactly once in real life, and then im like wow what a loser you are haha.
