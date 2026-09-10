@@ -46,7 +46,7 @@ sab choro weese lmk how u liked my unique new birthday wishing tactic, THIS IS N
   ],
 
   // Final screen.
-  finalHeading: "To many more.",
+  finalHeading: "Wishing you a potentially happy and enjoyable birthday in QUETTA LOL.",
   finalMessage:
     "itni tareef sehat keliye achi nhi hoti hahahahh so pipe down princess" +
     "  and have a good one",
