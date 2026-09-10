@@ -41,15 +41,16 @@ sab choro weese lmk how u liked my unique new birthday wishing tactic, THIS IS N
     "Cindy malt was dogshit btw, i drank it all in and i still feel like i wasted my life, only because apne khareeda tha",
     "give me rhodedendron wali gmail back thanks AND DONT GIVE YOUR PLAYLISTS NAMES LIKE YEARNING 😭😭",
     "You've perfected the art of leaving me on read for six hours and then sending fifteen messages in a row which is weird.",
-    "I still have not recieved a sibglke gift u bragged to me about ke ill give to ur mom blahblah so you might wanna work on that :p",
+    "I still have not recieved a single gift u bragged to me about ke ill give it to ur mom blahblah so you might wanna work on that :p",
     "heres some tareef for you, but dont get used to it. You're a genuinely good time, even over text, which should not be possible.",
   ],
 
   // Final screen.
   finalHeading: "Wishing you a potentially happy and enjoyable birthday in QUETTA LOL.",
   finalMessage:
-    "itni tareef sehat keliye achi nhi hoti hahahahh so pipe down princess" +
-    "  and have a good one",
+    "itni tareef sehat keliye achi nhi hoti hahahahh so pipe down princess" + 
+    " and have a good one ❤️ 
+     `also send me your address i may or may not ship a gift 😬. im just so kind as you ma already know HAHA`,
 
   // Optional: set to a date string like "2022-05-14" to show a
   // "together for N days" line on the final screen. Set to null
