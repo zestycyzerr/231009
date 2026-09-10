@@ -22,22 +22,19 @@ const CONFIG = {
   ],
 
   // The letter. Each string in the array becomes its own paragraph.
-  letter: [
-    `Meenu(vfunnynicknamebroisw),`,
+  lletter: [
+    `Meenu(with da teddybear emoji),`,
     `I couldnt have gotten a gift anyway so i thought might as well do something different right. Im a little gay bitch so i dont know what to write but just know im trying my best lmaoo.`,
-    `Okay so first of all, you absolutely ditched me for most of that Islamabad trip and I have never fully forgiven you for it, but somehow I still ended up texting you every single day since, so clearly my judgment is broken. You're annoying as fuck btw, and im sick of your age jokes. I  think about you more than any semi-sane person should think about someone they've met exactly once in real life, and then im like wow what a loser you are haha.
-
-But also like I'm kind of glad Hania decided to be a menace and make us meet, because whatever this is, brainrot and all, has turned into a very enjoyable part of my days.
-mb this is me saying it a little sideways instead of straight up, so samajh jana bas.
-'ap bas andaza lagao how much to me to me that if we were on a boat that was sinking, and somehow there was only one lifejacket, im obviously gonna take it; but id miss you dearly though 🥹🥹'
+    `Okay so first of all, you absolutely ditched me for most of that Islamabad trip and I have never fully forgiven you for it, but somehow I still ended up texting you every single day since, so clearly my judgment is broken. You're annoying as fuck btw, and im sick of your age jokes. I think about you more than any semi-sane person should think about someone they've met exactly once in real life, and then im like wow what a loser you are haha.
+      But also like I'm kind of glad Hania decided to be a menace and make us meet, because whatever this is, brainrot and all, has turned into a very enjoyable part of my days.
+mb this is me saying it a little sideways instead of straight up, so samajh jana bas.`,
+    `ap bas andaza lagao how much to me that if we were on a boat that was sinking, and somehow there was only one lifejacket, im obviously gonna take it; but id miss you dearly though 🥹🥹
 sab choro weese lmk how u liked my unique new birthday wishing tactic, THIS IS NO LESS THAN A GIFT OKAY? MERE ALL NIGHTERS LAGE HAIN U BETTER APPRECIATE THE GRINDING I DID FOR U lol.`,
     `Happy sixsevennnn birthday. I hope this year is as shit to you as were to me and
-     to everyone around you (jox you werent). I'm grateful you got posted to samungli hhahaha. I hope you have a good day, and that you get to spend it with people who make you feel just as good.`
-     
-     `dekho kitna kuch likh liya ap creativity check karo bas`
+     to everyone around you (jox you werent). I'm grateful you got posted to samungli hhahaha. I hope you have a good day, and that you get to spend it with people who make you feel just as good.`,
+    `dekho kitna kuch likh liya ap creativity check karo bas`
   ],
   letterSignature: "— cyzer",
-
   // Short reasons — keep each one to a single sentence.
   reasons: [
     "STOP SPILLING THE SHIT I TELL YOU TO RANDOS okay warna ill stop telling u stuff 🥹",
