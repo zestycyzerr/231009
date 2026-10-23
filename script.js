@@ -24,14 +24,14 @@ const CONFIG = {
   // The letter. Each string in the array becomes its own paragraph.
   letter: [
     `Meenu(with da teddybear emoji),`,
-    `I couldnt have gotten a gift anyway so i thought might as well do something different right. Im a little gay bitch so i dont know what to write but just know im trying my best lmaoo.`,
-    `Okay so first of all, you absolutely ditched me for most of that Islamabad trip and I have never fully forgiven you for it, but somehow I still ended up texting you every single day since, so clearly my judgment is broken. You're annoying as fuck btw, and im sick of your age jokes. I think about you more than any semi-sane person should think about someone they've met exactly once in real life, and then im like wow what a loser you are haha.
-      But also like I'm kind of glad Hania decided to be a menace and make us meet, because whatever this is, brainrot and all, has turned into a very enjoyable part of my days.
+    `I couldnt have gotten a gift ON your bday anyway so i thought might as well do something different right. Im a little gay bitch so i dont know what to write but just know im trying my best lmaoo.`,
+    `Okay so first of all, you absolutely did me bad for most of that Islamabad trip YEAH CINDYMALT REFERENCE AND THE DING DONG DITCHING and not even a thank you for all that 10/10 fotography i did and I have never fully forgiven you for it, but somehow I still let it slide cos warna ye 17yos muje dekh ke kya seekein ge yk very kind soul iam. You're annoying as fuck btw, and im sick of your age jokes. Sometimes i think you might be OKAYISH for someone ive met exactly once in real life, and then im like wow okay what a loser you are haha.
+      But also like I'm kind of NOT glad Hania decided to be a menace and make us meet, because whatever this is, has turned into a very hectic part of my days, keeping up with ur 67 jokes and what not :p.
 mb this is me saying it a little sideways instead of straight up, so samajh jana bas.`,
-    `ap bas andaza lagao how much to me that if we were on a boat that was sinking, and somehow there was only one lifejacket, im obviously gonna take it; but id miss you dearly though 🥹🥹
-sab choro weese lmk how u liked my unique new birthday wishing tactic, THIS IS NO LESS THAN A GIFT OKAY? MERE ALL NIGHTERS LAGE HAIN U BETTER APPRECIATE THE GRINDING I DID FOR U lol.`,
-    `Happy sixsevennnn birthday. I hope this year is as shit to you as were to me and
-     to everyone around you (jox you werent). I'm grateful you got posted to samungli hhahaha. I hope you have a good day, and that you get to spend it with people who make you feel just as good.`,
+    `You mean this much to me that if we were on a boat that was sinking, and somehow there was only one lifejacket, im obviously gonna take it; but id miss you dearly though 🥹🥹 (didnt get that phrase from insta btw all me)
+sab choro weese lmk how u liked my unique new birthday wishing tactic AND THE EARLY BDAY GIFT, THIS IS NO LESS THAN A GIFT OKAY? MERE ALL NIGHTERS LAGE HAIN U BETTER APPRECIATE THE GRINDING I DID FOR U lol.`,
+    `Happy unc birthday. I hope this year is as shit to you as were to me and
+     to everyone around you (jox you werent). Funny how you got posted to samungli hhahaha warna isb wouldve been a living hell for both of us. I hope you have a good day, and that you get to spend it with people who make you feel like shit cos why not bday pe kuch diff hona chahiye.`,
     `dekho kitna kuch likh liya ap creativity check karo bas`
   ],
   letterSignature: "— cyzer",
@@ -40,16 +40,16 @@ sab choro weese lmk how u liked my unique new birthday wishing tactic, THIS IS N
     "STOP SPILLING THE SHIT I TELL YOU TO RANDOS okay warna ill stop telling u stuff 🥹",
     "Cindy malt was dogshit btw, i drank it all in and i still feel like i wasted my life, only because apne khareeda tha",
     "give me rhodedendron wali gmail back thanks AND DONT GIVE YOUR PLAYLISTS NAMES LIKE YEARNING 😭😭",
-    "You've perfected the art of leaving me on read for six hours and then sending fifteen messages in a row which is weird.",
+    "You're weird for leaving me on read for six hours and then sending fifteen messages in a row like okay buddy boy.",
     "I still have not recieved a single gift u bragged to me about ke ill give it to ur mom blahblah so you might wanna work on that :p",
-    "heres some tareef for you, but dont get used to it. You're a genuinely good time, even over text, which should not be possible.",
+    "ive opted for a hater theme bday instead of normal cos like yk be unique tareef to har banda karta hai. dont actually mean it btw :p",
   ],
 
   // Final screen.
     finalHeading: "Wishing you a potentially happy and enjoyable birthday in QUETTA LOL.",
   finalMessage:
-    "itni tareef sehat keliye achi nhi hoti hahahahh so pipe down princess" +
-    " and have a good one ❤️. also send me your address base ka, i may or may not ship a gift 😬. im just so kind as you may already know HAHA",
+    "itni hate sehat keliye achi nhi hoti hahahahh so yeah okaye youre cool and funny or whatever 👀" +
+    " and have a good one ❤️. also IM NOT DOING ANYTH FOR U AGAIN U UNGRATEFUL 17YO. never showing my kindness to u ever again HAHA",
   // Optional: set to a date string like "2022-05-14" to show a
   // "together for N days" line on the final screen. Set to null
   // to hide it entirely.
